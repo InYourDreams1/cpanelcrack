@@ -1,6 +1,6 @@
 <?php
-// coded by ustadcage_48
- And Html404error_reporting(0);
+// coded by ustadcage_48 And Html404//
+error_reporting(0);
 ## log save ##
 function sv($site,$ext){
 $fp = fopen("$ext.txt", 'a');
