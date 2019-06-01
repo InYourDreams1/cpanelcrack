@@ -1,5 +1,5 @@
 <?php
-// coded by ustadcage_48 And Html404//
+// coded by ustadcage_48 exploit-kita//
 error_reporting(0);
 ## log save ##
 function sv($site,$ext){
